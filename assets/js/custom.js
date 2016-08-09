@@ -1,28 +1,3 @@
-/**	
-	* Template Name: Rex
-	* Version: 1.0	
-	* Template Scripts
-	* Author: MarkUps
-	* Author URI: http://www.markups.io/
-
-	Custom JS
-	
-	1. HEADER CONTENT SLIDE
-	2. FIXED MENU
-	3. COUNTER
-	4. TESTIMONIAL SLIDE (SLICK SLIDER)
-	5. CLIENT SLIDE (SLICK SLIDER)
-	6. SCROLL TOP BUTTON
-	7. MENU SMOOTH SCROLLING
-	8. MIXIT FILTER ( FOR PORTFOLIO )  
-	9. FANCYBOX ( FOR PORTFOLIO POPUP VIEW ) 
-	10. MOBILE MENU CLOSE 
-	11. PRELOADER 
-	12. INSTAGRAM SLIDER (SLICK SLIDER)
-	13. WOW ANIMATION 	
-	
-**/
-
 jQuery(function($){
 
 
