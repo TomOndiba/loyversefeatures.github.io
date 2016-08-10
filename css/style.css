@@ -1352,3 +1352,6 @@ img {
 #fadeInRight{
  	float: left;
  }
+#count{
+ 	overflow: none;
+ }
